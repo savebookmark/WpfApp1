@@ -27,7 +27,7 @@ namespace WpfApp1
 
         private void button_Click(object sender, RoutedEventArgs e)
         {
-            textBlock.Text = "hey";
+            textBlock.Text = "heytest test test 연습 git";
             
         }
     }
